@@ -1,0 +1,16 @@
+{
+  "name": "issue-navigation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nuxt.config.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt": "npm:nuxt-edge@2.0.0-25550715.56db988",
+    "vue-awesome-swiper": "^3.1.3"
+  }
+}
